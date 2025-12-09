@@ -64,7 +64,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) based Learning Managemen
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/imabhijeetkarne/LMS.git]
+   git clone https://github.com/imabhijeetkarne/LMS.git
    cd LMS
    ```
 
