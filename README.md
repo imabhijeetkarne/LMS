@@ -98,7 +98,7 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) based Learning Managemen
 
    **Frontend (.env)**
    ```
-   VITE_SERVER_URL=http://localhost:8000
+   VITE_BACKEND_URL=http://localhost:8000
    ```
 
 ## 📚 API Endpoints
